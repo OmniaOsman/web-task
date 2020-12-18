@@ -6,7 +6,6 @@ function addtion(){
      }
 }
 
-
 // multiplication
 function multiplication(){
      document.getElementById('text').innerHTML = 'multiplication of 3'
